@@ -9,3 +9,11 @@ Recent advances in mobile health have demonstrated great potential to leverage s
 Purpose:
 
 The processing of sensor data for development of digital signatures reflective of Parkinson's Disease could lead to early signs of disease prevention and cure.
+
+Slides:
+
+https://docs.google.com/presentation/d/1DnrV8aGxCAgpd6xUzpdsxLoNL5YRW_sja7DvgSDKa_o/edit?usp=sharing
+
+NOTE:
+
+Anyone interested in forking this repository will not be able to download the data due to synapse's API being secure. If interested in downloading data make a validated profile on synapse.org
